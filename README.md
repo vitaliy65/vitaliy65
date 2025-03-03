@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 # 💫 About Me:
 🔭 На данний момент працюю над проектом Better-Fitness для вивчення Next.js та TypeScript, також в майбутнюму зробити пару маштабніших проектів!<br><br>------------<br><br>🌱 Зараз вивчаю: TypeScript, JavaScript, React, Next.js, Next.js routing system, з'єднання MongoDB з Next.js<br><br>------------<br><br>⚡ Хочу стати майстром в сфері створення та впровадження web-програм!
 
