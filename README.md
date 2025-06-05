@@ -1,7 +1,7 @@
 # Hey there, I'm Vitaliy, nice to meet you! 👋🏻
 
-🔭 I'm currently studying to become Frontend Software Engineer!
-💬 Ask me about React, JavaScript, CSS or anything web-related you can think of! 😄
+- 🔭 I'm currently studying to become Frontend Software Engineer!
+- 💬 Ask me about React, JavaScript, CSS or anything web-related you can think of! 😄
 
 # You can reach me here 🌎
 [🏡 Portfolio](https://posvistak-portfolio.vercel.app/) | [👔 LinkedIn](https://www.linkedin.com/in/vitaliy-posvistak-7887082b8/) | [email](mailto:vitalii.posvistak@gmail.com) 
